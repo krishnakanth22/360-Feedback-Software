@@ -1,0 +1,181 @@
+I am Arjun we are presenting the
+implementation video of our project on
+the automated public lighting under the
+theme smart automation through this
+video today the existing public lighting
+system has many disadvantages like usage
+of high pressure sodium lamps and manual
+systems for switching on and off the
+street lights through which there is a
+huge wastage of power so we need a smart
+and eco-friendly lighting solutions here
+is where our idea and prototype comes to
+your rescue in our project we have
+included uh necessary LED lights and
+different types of sensors and offgrade
+solar panels to reduce power consumption
+and use them effectively the overall
+objective of a project is to enhance
+public lighting efficient uh power
+consumption and to be economical let me
+start explaining the components that we
+use in our project followed by the
+working model of our project here uh we
+are using ldr sensors to sense ambient
+light levels and distinguish between uh
+day and night we use ldr for it unique
+properties like they are uh good for
+their Simplicity and cost Effectiveness
+other light sensors like Photo diodes or
+photo transistors might be more suitable
+for uh real time for motion detection uh
+we are using uh infrared sensors to
+detect vehical M allowing for adaptive
+lightning it increases light as
+intensity as needed for Energy savings
+the major advantages of using IR sensor
+is cost effective energy efficient and
+uh quick response with privacy and
+intrusion detection I sensors do not
+capture images or video making them
+suitable for applications where privacy
+concerns are Paramount such as
+residential area power consumption
+monitoring it monitors uh power
+consumption of the lightning system it
+displays the data on the web application
+things speak we are using things speak
+for our uh project facilitating compreh
+analysis and efficient energy usage off
+grid solar panel we are using off grid
+solar panel in integrated with uh
+battery and controller which is the main
+advantage for our project it stores the
+energy and utilizes in case of any major
+power Cuts or any natural calamities let
+me show the working model this is the
+working model of our project the
+automated public lighting and it
+involves three uh sensors respectively
+the name namely ldr sensor I sensor and
+current sensor the ldr sensor is used to
+differentiate day and night and the IR
+sensor is used to detect the motion of
+the vehicle person and the current
+sensor senses the current as a project
+is related to iot uh all the sensors are
+connected to the ordino board
+respectively uncoded such that the ldr
+sensor detects light when the ldr does
+not detect light the LEDs glow uh here
+in our project the two LEDs represent a
+single solar lamp on the hole and if the
+IR detects motion the LED both the LEDs
+glow at full uh intensity when the
+motion is detected but during the
+sunlight then the led doesn't glow
+motion is not detected during uh night
+times the only one of the LED uh glows
+at uh that is half of the intensity it
+glows so to increase the lifetime of the
+uh LEDs what we are doing is when the
+motion is detected at once both the LEDs
+glow and when it is not not there one
+one of the LEDs glow and if again it is
+there the LEDs are glowing in alternate
+uh ways such that the lifetime of the
+LED is going to be long now project we
+have connected the whole system to the
+solar panel which is conned to a
+controller and Battery such that during
+any natural calamities the battery
+stores the energy which is transmitted
+to the LEDs and it also glows during
+natural calamities which is a advantage
+in our project to detect the power
+consumption at a w we we have connected
+the Wi-Fi module with the Audino such
+that it transmits the data that is the
+power supplied and the current supplied
+uh through the uh solar panel to the
+things speak open source the power
+consumed in the project is displayed in
+the things speak open source as
+shown let me just brief you about Wi-Fi
+module and the open SCE platform that we
+are using in our project we are using
+Wi-Fi module ESP a26 which are mainly
+used for the connectivity between the
+aino and things speak in aino we are
+coded for ldr sensor IR sensor current
+sensor and also for things speak after
+the execution of the code the result may
+be considered as the data this data
+should be displayed through the things
+speak for that espa2 Wi-Fi module is
+obligatory for integration of Wi-Fi
+module to our project we are access any
+Wi-Fi network and transfer the datas by
+using SS ID and password we can access
+the Wi-Fi network for each channel in
+think speak there is generate a API keys
+and channel ID number we want to include
+this in our code then it makes
+connectivity between our aino code and
+things speak we are using things speak
+because it is open iot platform it is a
+friendly interface data can be accessed
+by anyone from anywhere any problem
+occurs in thing in our system means it
+will send alerts and
+notification security messes may include
+encryption of data in transit user
+authentication and access net controls
+ensuring that only authorized users or
+devices can interact with the data on
+things speak these practices are
+essentially to maintain the integrity
+and confidentially of the data in the
+platform so we are preferring things
+speak use case of projects are automated
+lightning turns light on at desk and off
+and down optimizing energy consumptions
+and providing adequate lightning motion
+activated lightning activate lights
+based on motion minimizing unnecessary
+usage and saving on energy cost shift
+for rediction identify small functioning
+lights such as fused lights rapidly
+ensuring quick maintenance
+energy insights monitors power usage
+patterns empowering informed decisions
+for efficiency and cost reduction cost
+effective elimination optimizes public
+lighting lowering operational cost while
+maintaining safety and visibility the
+main use case of a project is offgrid
+solar panel which used to store energy
+with solar panel and a battery that can
+be used in future smart energy saving
+lightning utilizes technology for
+efficient energy usage reducing waste
+and promoting
+sustainability in conclusion the
+development of an automated public
+lighting system as presented represents
+a significant advancement in urban
+infrastructure management this
+Innovative solution not only enhances
+Energy Efficiency but also improves
+Public Safety reduces operational cost
+and minimizes environmental impact the
+successful implementation of this
+project could not only benefit
+municipalities but also pay the way for
+a more sustainable and Tech
+techologically Advanced future it is
+imperative that we continue to
+collaborate and invest in such
+transformative solutions to create
+smarter and more resilient cities thank
+you
